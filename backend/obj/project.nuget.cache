@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "diMDwk3Tjic=",
+  "success": true,
+  "projectFilePath": "/Users/jakub.porada/Downloads/Users/Jakub/VS Code/LoginApp-ng-tw/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakub.porada/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/jakub.porada/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
